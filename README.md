@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a DevSecOps Engineer<br>Currently working at Bisag-n Intern<br>Looking for DevSecOps job
+i'm a DevSecOps Engineer<br>Completed DevSecOps internship at Bisag-n Intern<br>Looking for DevSecOps job
 
 
 ## 🌐 Socials:
