@@ -1,5 +1,8 @@
 # 💫 About Me:
-i'm a DevSecOps Engineer<br>Completed DevSecOps internship at Bisag-n Intern<br>Looking for DevSecOps job
+Recent B.Tech (IT) graduate from Silver Oak University Ahmedabad (CGPA: 8.18) with hands-on DevSecOps
+internship experience at BISAG-N, a Government of India institution. Skilled in building end-to-end CI/CD pipelines,
+containerizing workloads on AWS EKS, and embedding security scanning into delivery workflows. Actively seeking
+a full-time DevOps/Cloud Engineer role.
 
 
 ## 🌐 Socials:
